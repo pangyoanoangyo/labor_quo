@@ -1,0 +1,2738 @@
+{
+    "DC-D1642WRX 2.8mm": [
+        "513040.0",
+        "DC-D4216WRX 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4216WRX"
+    ],
+    "DC-D1148WRX 3.3mm": [
+        "513204.0",
+        "DC-D4811WRX 3.3#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4811WRX"
+    ],
+    "DC-D3642WRX-A": [
+        "513415.0",
+        "DC-D4236WRX-A 2.8-12#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4236WRX-A"
+    ],
+    "DC-D1745RXP 4.3mm": [
+        "514189.0",
+        "DC-D4517RXP 4.3#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4517RXP"
+    ],
+    "DC-D1745RXP 2.8mm": [
+        "514235.0",
+        "DC-D4517RXP 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4517RXP"
+    ],
+    "DC-T3362HRXL": [
+        "512094.0",
+        "DC-T6233HRXL 4.4-10#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T6233HRXL"
+    ],
+    "DC-S8332FX": [
+        "511763.0",
+        "NC-S620-3ZX 4.3-129.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "PTZ",
+        "NC-S620-3ZX"
+    ],
+    "DC-V1242XJ 2.4mm": [
+        "514159.0",
+        "DC-V4212XJ 2.4#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "MODULAR",
+        "DC-V4212XJ"
+    ],
+    "DC-V1242XJ 4.3mm": [
+        "514161.0",
+        "DC-V4212XJ 4.3#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "MODULAR",
+        "DC-V4212XJ"
+    ],
+    "DC-M4211WRX 2.8mm": [
+        "514418.0",
+        "DC-M4211WRX 2.8#2 BRAND-KR /M12",
+        "BRAND-KR",
+        "IP-CAM",
+        "MOBILE",
+        "DC-M4211WRX"
+    ],
+    "DC-G953BX-A": [
+        "513553.0",
+        "DC-G953BX-A 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G953BX-A"
+    ],
+    "DC-G953AX-A": [
+        "513987.0",
+        "DC-G953AX-A 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G953AX-A"
+    ],
+    "DC-G3162L": [
+        "513992.0",
+        "DC-G6231L 4.3-9.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G6231L"
+    ],
+    "DC-D3148HRX": [
+        "513091.0",
+        "DC-D4831HRX 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4831HRX"
+    ],
+    "DC-D1645WRX-A 2.8mm": [
+        "513532.0",
+        "DC-D4516WRX-A 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4516WRX-A"
+    ],
+    "DC-D1645WRX-A 4.0mm": [
+        "513536.0",
+        "DC-D4516WRX-A 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4516WRX-A"
+    ],
+    "DC-D3745HRXA": [
+        "514217.0",
+        "DC-D4537HRXA 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4537HRXA"
+    ],
+    "DC-T3148HRX": [
+        "513093.0",
+        "DC-T4831HRX 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4831HRX"
+    ],
+    "DC-T2262HRL": [
+        "513026.0",
+        "DC-T6222HRL #2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T6222HRL"
+    ],
+    "DC-T1545WRX-A 4.0mm": [
+        "513289.0",
+        "DC-T4515WRX-A 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4515WRX-A"
+    ],
+    "DC-T1148WRX-A 3.3mm": [
+        "513297.0",
+        "DC-T4811WRX-A 3.3#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4811WRX-A"
+    ],
+    "DC-T1745WRX 4.3mm": [
+        "514312.0",
+        "DC-T4517WRX 4.3#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4517WRX"
+    ],
+    "nan": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "DC-D1745RX 4.3mm": [
+        "514310.0",
+        "DC-D4517RX 4.3#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4517RX"
+    ],
+    "DC-D1745RX 2.8mm": [
+        "514308.0",
+        "DC-D4517RX 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4517RX"
+    ],
+    "DC-D1842WRA 2.8mm": [
+        "514507.0",
+        "DC-D4218WRA 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4218WRA"
+    ],
+    "DC-D1842WRA 4.0mm": [
+        "514508.0",
+        "DC-D4218WRA 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4218WRA"
+    ],
+    "DC-T3642WRX": [
+        "513045.0",
+        "DC-T4236WRX 2.8-12#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4236WRX"
+    ],
+    "DC-T1742WRX 4.0mm": [
+        "513242.0",
+        "DC-T4217WRX 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4217WRX"
+    ],
+    "DC-T1742WRX 2.8mm": [
+        "513506.0",
+        "DC-T4217WRX 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4217WRX"
+    ],
+    "DC-T1642WRX-A 4.0mm": [
+        "513419.0",
+        "DC-E4216WRX-A 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-E4216WRX-A"
+    ],
+    "DC-T1745WRXP 4.3mm": [
+        "514190.0",
+        "DC-T4517WRXP 4.3#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4517WRXP"
+    ],
+    "DC-T1745WRXP 6.2mm": [
+        "514191.0",
+        "DC-T4517WRXP 6.2#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4517WRXP"
+    ],
+    "DC-D1742RX 2.8mm": [
+        "513313.0",
+        "DC-D4217RX 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4217RX"
+    ],
+    "DC-D1742RX 4.0mm": [
+        "513238.0",
+        "DC-D4217RX 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4217RX"
+    ],
+    "DC-D3148HRX-A": [
+        "513357.0",
+        "DC-D4831HRX-A 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4831HRX-A"
+    ],
+    "DC-D3545HRX-A": [
+        "513349.0",
+        "DC-D4535HRX-A 4-14#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4535HRX-A"
+    ],
+    "DC-D1645WRX 4.0mm": [
+        "513524.0",
+        "DC-D4516WRX 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4516WRX"
+    ],
+    "DC-D1645WRX 2.8mm": [
+        "513520.0",
+        "DC-D4516WRX 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4516WRX"
+    ],
+    "MNC5211DR 4.0mm": [
+        "510114.0",
+        "NC-EP620-XIP1-F1 4.0#2 BRAND-KR /MTS",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "NC-EP620-XIP1"
+    ],
+    "DC-D3342RX": [
+        "511415.0",
+        "DC-D4233RX 2.8-12#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4233RX"
+    ],
+    "DC-D3642RX": [
+        "513041.0",
+        "DC-D4236RX 2.8-12#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4236RX"
+    ],
+    "DC-D3645HRX": [
+        "513663.0",
+        "DC-D4536HRX 3-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4536HRX"
+    ],
+    "DC-D3645HRX-A": [
+        "513665.0",
+        "DC-D4536HRX-A 3-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4536HRX-A"
+    ],
+    "DC-E1542WR 4.0mm": [
+        "510871.0",
+        "DC-E4215WR 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-E4215WR"
+    ],
+    "DC-T3645HRX": [
+        "513666.0",
+        "DC-T4536HRX 3-13.5 #2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4536HRX"
+    ],
+    "DC-D3642HRX-A": [
+        "513416.0",
+        "DC-D4236HRX-A 2.8-12#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4236HRX-A"
+    ],
+    "DC-D3645RX": [
+        "513662.0",
+        "DC-D4536RX 3-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4536RX"
+    ],
+    "DC-D4842HRA": [
+        "514512.0",
+        "DC-D4248HRA 7-22#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4248HRA"
+    ],
+    "DC-T3335HRX": [
+        "510328.0",
+        "NC-A650-3MXH 3.6-10#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "NC-A650-3MXH"
+    ],
+    "DC-T1642WRX 4.0mm": [
+        "513124.0",
+        "DC-E4216WRX 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-E4216WRX"
+    ],
+    "DC-T1642WRX 2.8mm": [
+        "513044.0",
+        "DC-E4216WRX 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-E4216WRX"
+    ],
+    "DC-T3642WRX-A": [
+        "513432.0",
+        "DC-T4236WRX-A 2.8-12#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4236WRX-A"
+    ],
+    "DC-T3745HRXA": [
+        "514222.0",
+        "DC-T4537HRXA 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4537HRXA"
+    ],
+    "DC-D3645RX-A": [
+        "513664.0",
+        "DC-D4536RX-A 3-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4536RX-A"
+    ],
+    "DC-D3745RXA": [
+        "514212.0",
+        "DC-D4537RXA 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4537RXA"
+    ],
+    "DC-D3842HRA": [
+        "514511.0",
+        "DC-D4238HRA 2.8-12#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4238HRA"
+    ],
+    "DC-T1148WRX 3.3mm": [
+        "513208.0",
+        "DC-T4811WRX 3.3#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4811WRX"
+    ],
+    "DC-T1645WRX-A 4.0mm": [
+        "513538.0",
+        "DC-T4516WRX-A 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4516WRX-A"
+    ],
+    "DC-T1645WRX-A 2.8mm": [
+        "513534.0",
+        "DC-T4516WRX-A 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4516WRX-A"
+    ],
+    "DC-S8362HRXL": [
+        "512211.0",
+        "DC-S6283HRXL 6-216#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6283HRXL"
+    ],
+    "DC-S6162X": [
+        "513006.0",
+        "DC-S6261X 5.3-64#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6261X"
+    ],
+    "DC-V1332XJ 4.3mm": [
+        "511764.0",
+        "NC-CF620-DP 4.3#1 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "MODULAR",
+        "NC-CF620-DP"
+    ],
+    "DC-C6203L": [
+        "512532.0",
+        "DC-C6203L #2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-C6203L"
+    ],
+    "DC-D1642RX 2.8mm": [
+        "513039.0",
+        "DC-D4216RX 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4216RX"
+    ],
+    "DC-D1642RX 4.0mm": [
+        "513123.0",
+        "DC-D4216RX 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4216RX"
+    ],
+    "DC-D1148WRX-A 3.3mm": [
+        "513293.0",
+        "DC-D4811WRX-A 3.3#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4811WRX-A"
+    ],
+    "DC-D1642RX-A 2.8mm": [
+        "513400.0",
+        "DC-D4216RX-A 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4216RX-A"
+    ],
+    "DC-D1642RX-A 4.0mm": [
+        "513404.0",
+        "DC-D4216RX-A 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4216RX-A"
+    ],
+    "DC-D3642RX-A": [
+        "513409.0",
+        "DC-D4236RX-A 2.8-12#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4236RX-A"
+    ],
+    "DC-D1142CRX": [
+        "513660.0",
+        "DC-D4211CRX 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4211CRX"
+    ],
+    "DC-B0145X": [
+        "513657.0",
+        "DC-B4501X #2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BOX",
+        "DC-B4501X"
+    ],
+    "DC-Y1665WRX": [
+        "513191.0",
+        "DC-Y6516WRX 1.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "FISHEYE",
+        "DC-Y6516WRX"
+    ],
+    "DC-Y166CWRX-A": [
+        "513303.0",
+        "DC-Y6C16WRX-A 1.6#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "FISHEYE",
+        "DC-Y6C16WRX-A"
+    ],
+    "DC-V1242XJ-A 4.3mm": [
+        "513886.0",
+        "DC-V4212XJ-A 4.3#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "MODULAR",
+        "DC-V4212XJ-A"
+    ],
+    "DC-G953CX": [
+        "513549.0",
+        "DC-G953CX 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G953CX"
+    ],
+    "DR-1625P": [
+        "513764.0",
+        "DR-2516P 1U#1 BRAND-KR 2TA",
+        "BRAND-KR",
+        "NVR",
+        "DR2",
+        "DR-2516P"
+    ],
+    "DV-3200-A": [
+        "514112.0",
+        "DV-3200-A 2U#1 BRAND-KR 0T",
+        "BRAND-KR",
+        "VA",
+        "DV",
+        "DV-3200-A"
+    ],
+    "DP-DE2108": [
+        "514181.0",
+        "DP-DE2108 #2 BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "ENC/DEC",
+        "DP-DE2108"
+    ],
+    "DC-T3842HRA": [
+        "514513.0",
+        "DC-T4238HRA 2.8-12#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4238HRA"
+    ],
+    "DC-S8168HRX": [
+        "514154.0",
+        "DC-S6881HRX 6.5-202#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6881HRX"
+    ],
+    "DC-M4211HRX 3.3mm": [
+        "514419.0",
+        "DC-M4211HRX 3.3#2 BRAND-KR /M12",
+        "BRAND-KR",
+        "IP-CAM",
+        "MOBILE",
+        "DC-M4211HRX"
+    ],
+    "DC-G8C11P": [
+        "513282.0",
+        "DC-G8C11P 1.29#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G8C11P"
+    ],
+    "DC-G8C11P-A": [
+        "513389.0",
+        "DC-G8C11P-A 1.29#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G8C11P-A"
+    ],
+    "DC-G953CX-A": [
+        "513554.0",
+        "DC-G953CX-A 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G953CX-A"
+    ],
+    "DC-G9416X": [
+        "513976.0",
+        "DC-G9416X 2.1#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9416X"
+    ],
+    "DC-G9A3AX-(L)": [
+        "513984.0",
+        "DC-G9A3AX-(L) 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9A3AX-(L)"
+    ],
+    "DC-G9A34X-NR": [
+        "512678.0",
+        "DC-G9A34X-NR 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9A34X-NR"
+    ],
+    "DC-G9002": [
+        "513552.0",
+        "DC-G9002 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9002"
+    ],
+    "DR-0825P": [
+        "513762.0",
+        "DR-2508P 1U#1 BRAND-KR 2TA",
+        "BRAND-KR",
+        "NVR",
+        "DR2",
+        "DR-2508P"
+    ],
+    "TC-D5531RX": [
+        "513029.0",
+        "TC-D5531RX 3-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "A-CAM",
+        "DOME",
+        "TC-D5531RX"
+    ],
+    "DC-B0662XL": [
+        "513696.0",
+        "DC-B6206XL #2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BOX",
+        "DC-B6206XL"
+    ],
+    "DC-V1142XJ 2.4mm": [
+        "513145.0",
+        "DC-V4211XJ 2.4#1 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "MODULAR",
+        "DC-V4211XJ"
+    ],
+    "DC-G9916X": [
+        "513974.0",
+        "DC-G9916X 2.1#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9916X"
+    ],
+    "DC-G9916X-A": [
+        "513975.0",
+        "DC-G9916X-A 2.1#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9916X-A"
+    ],
+    "DC-G9F3AX": [
+        "513978.0",
+        "DC-G9F3AX 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9F3AX"
+    ],
+    "DC-G9A3AX-A": [
+        "513981.0",
+        "DC-G9A3AX-A 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9A3AX-A"
+    ],
+    "DC-G953AX": [
+        "513986.0",
+        "DC-G953AX 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G953AX"
+    ],
+    "DR-0425P": [
+        "514417.0",
+        "DR-2504P 1U#1 BRAND-KR 0T",
+        "BRAND-KR",
+        "NVR",
+        "DR2",
+        "DR-2504P"
+    ],
+    "DC-T3645HRX-A": [
+        "513667.0",
+        "DC-T4536HRX-A 3-13.5 #2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4536HRX-A"
+    ],
+    "DC-S8166HRX-A": [
+        "513895.0",
+        "DC-S6681HRX-A 6.5-202#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6681HRX-A"
+    ],
+    "DC-G9F34X-N": [
+        "512676.0",
+        "DC-G9F34X-N 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9F34X-N"
+    ],
+    "DC-G9416X-A": [
+        "513977.0",
+        "DC-G9416X-A 2.1#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9416X-A"
+    ],
+    "DC-G9F3AX-A": [
+        "513979.0",
+        "DC-G9F3AX-A 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9F3AX-A"
+    ],
+    "DC-G9A3AX-(R)": [
+        "513982.0",
+        "DC-G9A3AX-(R) 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9A3AX-(R)"
+    ],
+    "NC-T4233WRX": [
+        "511222.0",
+        "DC-T4233WRX 2.8-12#2 BRAND-KR /PP",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4233WRX"
+    ],
+    "DC-T3642HRX": [
+        "513046.0",
+        "DC-T4236HRX 2.8-12#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4236HRX"
+    ],
+    "DC-T3642HRX-A": [
+        "513424.0",
+        "DC-T4236HRX-A 2.8-12#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4236HRX-A"
+    ],
+    "DC-T2362HRL": [
+        "513961.0",
+        "DC-T6223HRL 12-50#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T6223HRL"
+    ],
+    "DC-T1842WRA 4.0mm": [
+        "514510.0",
+        "DC-T4218WRA 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4218WRA"
+    ],
+    "DC-T1842WRA 2.8mm": [
+        "514509.0",
+        "DC-T4218WRA 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4218WRA"
+    ],
+    "DC-T4842HRA": [
+        "514514.0",
+        "DC-T4248HRA 7-22#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4248HRA"
+    ],
+    "DC-S8166HRX": [
+        "514151.0",
+        "DC-S6681HRX 6.5-202#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6681HRX"
+    ],
+    "DC-Y166CWRX": [
+        "513192.0",
+        "DC-Y6C16WRX 1.6#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "FISHEYE",
+        "DC-Y6C16WRX"
+    ],
+    "DC-T1645WRX 2.8mm": [
+        "513522.0",
+        "DC-T4516WRX 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4516WRX"
+    ],
+    "DC-T1645WRX 4.0mm": [
+        "513526.0",
+        "DC-T4516WRX 4.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4516WRX"
+    ],
+    "DC-T2362HRL-A": [
+        "513962.0",
+        "DC-T6223HRL-A 12-50#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T6223HRL-A"
+    ],
+    "DC-S8332WHX": [
+        "510334.0",
+        "NC-S620-3ZXH 4.3-129.0#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "PTZ",
+        "NC-S620-3ZXH"
+    ],
+    "DC-S8662HRXL": [
+        "513509.0",
+        "DC-S6286HRXL 6-216#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6286HRXL"
+    ],
+    "DC-S8164HRA": [
+        "514527.0",
+        "DC-S6481HRA 6.91-248.76#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6481HRA"
+    ],
+    "DC-M1142WRX-A 2.8mm": [
+        "513649.0",
+        "DC-M4211WRX-A 2.8#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "MOBILE",
+        "DC-M4211WRX-A"
+    ],
+    "DC-G9A34X-NL": [
+        "512679.0",
+        "DC-G9A34X-NL 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9A34X-NL"
+    ],
+    "DC-G9534X-N": [
+        "512680.0",
+        "DC-G9534X-N 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9534X-N"
+    ],
+    "DC-G9914X": [
+        "512875.0",
+        "DC-G9914X 2.1#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9914X"
+    ],
+    "DC-G9A3AX-A(L)": [
+        "513985.0",
+        "DC-G9A3AX-A(L) 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9A3AX-A(L)"
+    ],
+    "DA-EC3101T": [
+        "509934.0",
+        "DA-EC3101T BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "송수신기",
+        "DA-EC3101T"
+    ],
+    "DA-PI2101": [
+        "509554.0",
+        "DA-PI2101 BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "송수신기",
+        "DA-PI2101"
+    ],
+    "IDS1004": [
+        "510469.0",
+        "DS104B BRAND-KR 0T",
+        "BRAND-KR",
+        "주변기기",
+        "OTHERS",
+        "DS104B"
+    ],
+    "DR-0415P": [
+        "514071.0",
+        "DR-1504P 1U#1 BRAND-KR 2TA /BLK",
+        "BRAND-KR",
+        "NVR",
+        "DR1",
+        "DR-1504P"
+    ],
+    "DR-1635P": [
+        "513802.0",
+        "DR-3516P 2U#8 BRAND-KR 4TA",
+        "BRAND-KR",
+        "NVR",
+        "DR3",
+        "DR-3516P"
+    ],
+    "DR-0865P": [
+        "513032.0",
+        "DR-6508P 2U#4 BRAND-KR 3TA",
+        "BRAND-KR",
+        "NVR",
+        "DR6",
+        "DR-6508P"
+    ],
+    "DR-3265P": [
+        "513034.0",
+        "DR-6532P 2U#4 BRAND-KR 4TA",
+        "BRAND-KR",
+        "NVR",
+        "DR6",
+        "DR-6532P"
+    ],
+    "DR-1685": [
+        "513754.0",
+        "DR-8516 2U#1 BRAND-KR 4TA",
+        "BRAND-KR",
+        "NVR",
+        "DR8",
+        "DR-8516"
+    ],
+    "DR-6485D": [
+        "514088.0",
+        "DR-8564D 2U#1 BRAND-KR 0T",
+        "BRAND-KR",
+        "NVR",
+        "DR8",
+        "DR-8564D"
+    ],
+    "TR-0815": [
+        "514065.0",
+        "TR-1508 1U#1 BRAND-KR 4TA",
+        "BRAND-KR",
+        "DVR",
+        "TR1",
+        "TR-1508"
+    ],
+    "DP-HE1201": [
+        "513722.0",
+        "DP-HE1201 #2 BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "ENC/DEC",
+        "DP-HE1201"
+    ],
+    "TC-V5211X 2.4mm": [
+        "513175.0",
+        "TC-V5211X 2.4#1 BRAND-KR",
+        "BRAND-KR",
+        "A-CAM",
+        "MODULAR",
+        "TC-V5211X"
+    ],
+    "TR-0845": [
+        "513967.0",
+        "TR-4508 2U#1 BRAND-KR 4TA",
+        "BRAND-KR",
+        "DVR",
+        "TR4",
+        "TR-4508"
+    ],
+    "DH-2010P": [
+        "507121.0",
+        "DH-2010P BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "NET SWITCH",
+        "DH-2010P"
+    ],
+    "DH-2328PF": [
+        "510739.0",
+        "DH-2328PF BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "NET SWITCH",
+        "DH-2328PF"
+    ],
+    "DH-2328PF-A": [
+        "514347.0",
+        "DH-2328PF-A BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "NET SWITCH",
+        "DH-2328PF-A"
+    ],
+    "DR-1665P": [
+        "513033.0",
+        "DR-6516P 2U#4 BRAND-KR 4TA",
+        "BRAND-KR",
+        "NVR",
+        "DR6",
+        "DR-6516P"
+    ],
+    "DR-6485": [
+        "514087.0",
+        "DR-8564 2U#1 BRAND-KR 8TB",
+        "BRAND-KR",
+        "NVR",
+        "DR8",
+        "DR-8564"
+    ],
+    "DC-G9414X": [
+        "512876.0",
+        "DC-G9414X 2.1#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9414X"
+    ],
+    "DC-G9A3AX": [
+        "513980.0",
+        "DC-G9A3AX 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9A3AX"
+    ],
+    "IR-310D": [
+        "514031.0",
+        "IR-310D 2U#1 BRAND-KR 48TH",
+        "BRAND-KR",
+        "NVR",
+        "IR",
+        "IR-310D"
+    ],
+    "TC-T5531WRX": [
+        "513031.0",
+        "TC-T5531WRX 3-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "A-CAM",
+        "BULLET",
+        "TC-T5531WRX"
+    ],
+    "TR-1625": [
+        "513736.0",
+        "TR-2516 1U#1 BRAND-KR 4TA",
+        "BRAND-KR",
+        "DVR",
+        "TR2",
+        "TR-2516"
+    ],
+    "DV-1304-A": [
+        "514283.0",
+        "DV-1304-A #2 BRAND-KR",
+        "BRAND-KR",
+        "VA",
+        "DV",
+        "DV-1304-A"
+    ],
+    "DE-1108": [
+        "507516.0",
+        "DE-1108 #2 BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "ENC/DEC",
+        "DE-1108"
+    ],
+    "DA-EC3101R": [
+        "509933.0",
+        "DA-EC3101R BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "송수신기",
+        "DA-EC3101R"
+    ],
+    "DA-LP1101R": [
+        "509556.0",
+        "DA-LP1101R BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "송수신기",
+        "DA-LP1101R"
+    ],
+    "DC-G9A3AX-A(R)": [
+        "513983.0",
+        "DC-G9A3AX-A(R) 2.7-13.5#2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9A3AX-A(R)"
+    ],
+    "DC-G9001": [
+        "513988.0",
+        "DC-G9001 #2 BRAND-KR",
+        "BRAND-KR",
+        "IP-CAM",
+        "주차",
+        "DC-G9001"
+    ],
+    "DR-0815P": [
+        "514076.0",
+        "DR-1508P 1U#1 BRAND-KR 2TA /BLK",
+        "BRAND-KR",
+        "NVR",
+        "DR1",
+        "DR-1508P"
+    ],
+    "IR-300A": [
+        "512982.0",
+        "IR-300A 2U#1 BRAND-KR 60TF",
+        "BRAND-KR",
+        "NVR",
+        "IR",
+        "IR-300A"
+    ],
+    "IR-310": [
+        "513740.0",
+        "IR-310 2U#1 BRAND-KR 0T",
+        "BRAND-KR",
+        "NVR",
+        "IR",
+        "IR-310"
+    ],
+    "IR-310D-A": [
+        "513742.0",
+        "IR-310D-A 2U#1 BRAND-KR 0T",
+        "BRAND-KR",
+        "NVR",
+        "IR",
+        "IR-310D-A"
+    ],
+    "TR-0412": [
+        "511032.0",
+        "TR-1204 1U#1 BRAND-KR 0T /BLK",
+        "BRAND-KR",
+        "DVR",
+        "TR1",
+        "TR-1204"
+    ],
+    "INEX STANDARD": [
+        "503659.0",
+        "INEX STANDARD BRAND-KR 32CH",
+        "BRAND-KR",
+        "VMS",
+        "INEX",
+        "INEX STANDARD"
+    ],
+    "DV-1304": [
+        "513966.0",
+        "DV-1304 #2 BRAND-KR",
+        "BRAND-KR",
+        "VA",
+        "DV",
+        "DV-1304"
+    ],
+    "DH-2018P": [
+        "507122.0",
+        "DH-2018P BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "NET SWITCH",
+        "DH-2018P"
+    ],
+    "DP-DD1316": [
+        "514082.0",
+        "DP-DD1316 #2 BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "ENC/DEC",
+        "DP-DD1316"
+    ],
+    "TR-1645": [
+        "513969.0",
+        "TR-4516 2U#1 BRAND-KR 4TA",
+        "BRAND-KR",
+        "DVR",
+        "TR4",
+        "TR-4516"
+    ],
+    "DH-2212PF": [
+        "508378.0",
+        "DH-2212PF BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "NET SWITCH",
+        "DH-2212PF"
+    ],
+    "DH-2026PF": [
+        "512682.0",
+        "DH-2026PF BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "NET SWITCH",
+        "DH-2026PF"
+    ],
+    "IDS1004-A": [
+        "514372.0",
+        "DS104D-A BRAND-KR 0T",
+        "BRAND-KR",
+        "주변기기",
+        "OTHERS",
+        "DS104D-A"
+    ],
+    "DV-3200-C": [
+        "514133.0",
+        "DV-3200-C 2U#1 BRAND-KR 0T",
+        "BRAND-KR",
+        "VA",
+        "DV",
+        "DV-3200-C"
+    ],
+    "DH-2212F": [
+        "511912.0",
+        "DH-2212F BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "NET SWITCH",
+        "DH-2212F"
+    ],
+    "AL-1112": [
+        "510740.0",
+        "AL-1112 #1 BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "OTHERS",
+        "AL-1112"
+    ],
+    "INK1100": [
+        "509186.0",
+        "INK1100 BRAND-KR",
+        "BRAND-KR",
+        "주변기기",
+        "OTHERS",
+        "INK1100"
+    ],
+    "DC-D1642RX-B 4.0mm": [
+        "513635.0",
+        "DC-D4216RX-B 4.0#2 BRAND-KR NEW",
+        "BRAND-KR",
+        "Others",
+        "IP-CAM NEW",
+        "IP-CAM NEW"
+    ],
+    "DC-T1642WRX-B 4.0mm": [
+        "513636.0",
+        "DC-E4216WRX-B 4.0#2 BRAND-KR NEW",
+        "BRAND-KR",
+        "Others",
+        "IP-CAM NEW",
+        "IP-CAM NEW"
+    ],
+    "IDB221BS": [
+        "505621.0",
+        "NC-S220 ACC KIT BRAND-KR",
+        "BRAND-KR",
+        "KIT",
+        "IP-CAM KIT",
+        "IP-CAM KIT"
+    ],
+    "NC-G650-V101": [
+        "510400.0",
+        "NC-G650-3MXP2 3.6-10#1 DARAE",
+        "DARAE",
+        "IP-CAM",
+        "주차",
+        "NC-G650-3MXP2"
+    ],
+    "DC-G953DX": [
+        "513550.0",
+        "DC-G953DX 2.7-13.5#1 DARAE",
+        "DARAE",
+        "IP-CAM",
+        "주차",
+        "DC-G953DX"
+    ],
+    "DC-G953EX": [
+        "513551.0",
+        "DC-G953EX 2.7-13.5#1 DARAE",
+        "DARAE",
+        "IP-CAM",
+        "주차",
+        "DC-G953EX"
+    ],
+    "NC-G650-V100": [
+        "510399.0",
+        "NC-G650-3MXP1 3.6-10#1 DARAE",
+        "DARAE",
+        "IP-CAM",
+        "주차",
+        "NC-G650-3MXP1"
+    ],
+    "DA-GL1200": [
+        "512626.0",
+        "DA-GL1200 DARAE",
+        "DARAE",
+        "IP-CAM",
+        "주차",
+        "DA-GL1200"
+    ],
+    "NC-G650-V200": [
+        "510401.0",
+        "NC-G6A1-3MXP 3.5-10#1 DARAE",
+        "DARAE",
+        "IP-CAM",
+        "주차",
+        "NC-G6A1-3MXP"
+    ],
+    "NC-G650-V001": [
+        "510403.0",
+        "DA-GL1100 DARAE",
+        "DARAE",
+        "IP-CAM",
+        "주차",
+        "DA-GL1100"
+    ],
+    "NC-D3148HRX": [
+        "513588.0",
+        "DC-D4831HRX 2.7-13.5#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4831HRX"
+    ],
+    "NC-T3148HRX": [
+        "513590.0",
+        "DC-T4831HRX 2.7-13.5#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4831HRX"
+    ],
+    "NC-D1742RX 2.8mm": [
+        "514019.0",
+        "DC-D4217RX 2.8#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4217RX"
+    ],
+    "NC-D1742RX 4.0mm": [
+        "513594.0",
+        "DC-D4217RX 4.0#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4217RX"
+    ],
+    "NC-D1645WRX 4.0mm": [
+        "514045.0",
+        "DC-D4516WRX 4.0#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4516WRX"
+    ],
+    "NC-D3342RX": [
+        "512658.0",
+        "DC-D4233RX 2.8-12#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4233RX"
+    ],
+    "NC-D3642RX": [
+        "513258.0",
+        "DC-D4236RX 2.8-12#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4236RX"
+    ],
+    "NC-D3645HRX": [
+        "514046.0",
+        "DC-D4536HRX 3-13.5#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4536HRX"
+    ],
+    "NC-T3645HRX": [
+        "514048.0",
+        "DC-T4536HRX 3-13.5 #2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4536HRX"
+    ],
+    "NC-D3645RX": [
+        "514334.0",
+        "DC-D4536RX 3-13.5#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4536RX"
+    ],
+    "NC-T1642WRX 4.0mm": [
+        "513259.0",
+        "DC-E4216WRX 4.0#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-E4216WRX"
+    ],
+    "NC-D3645RX-A": [
+        "513869.0",
+        "DC-D4536RX-A 3-13.5#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4536RX-A"
+    ],
+    "NC-T3332HRXL": [
+        "512653.0",
+        "NC-A620-3MXHS 4.4-10#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "BULLET",
+        "NC-A620-3MXHS"
+    ],
+    "NC-S6162X": [
+        "514119.0",
+        "DC-S6261X 5.3-64#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6261X"
+    ],
+    "NC-D3332HRXL": [
+        "512654.0",
+        "NC-D620-3MXHS 4.4-10#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "NC-D620-3MXHS"
+    ],
+    "NC-D1642RX 4.0mm": [
+        "513257.0",
+        "DC-D4216RX 4.0#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4216RX"
+    ],
+    "NC-D1642RX-A 4.0mm": [
+        "513408.0",
+        "DC-D4216RX-A 4.0#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4216RX-A"
+    ],
+    "NC-D1642RX-A 2.8mm": [
+        "513775.0",
+        "DC-D4216RX-A 2.8#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4216RX-A"
+    ],
+    "NC-Y1665WRX": [
+        "514090.0",
+        "DC-Y6516WRX 1.5#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "FISHEYE",
+        "DC-Y6516WRX"
+    ],
+    "NC-Y166CWRX-A": [
+        "513305.0",
+        "DC-Y6C16WRX-A 1.6#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "FISHEYE",
+        "DC-Y6C16WRX-A"
+    ],
+    "NR-0415P": [
+        "514075.0",
+        "DR-1504P 1U#1 ODM-KR 0T /WHT",
+        "ODM-KR",
+        "NVR",
+        "DR1",
+        "DR-1504P"
+    ],
+    "NC-S8168HRX": [
+        "514156.0",
+        "DC-S6881HRX 6.5-202#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6881HRX"
+    ],
+    "NR-3265P": [
+        "513927.0",
+        "DR-6532P 2U#4 ODM-KR 0T",
+        "ODM-KR",
+        "NVR",
+        "DR6",
+        "DR-6532P"
+    ],
+    "NC-T3645HRX-A": [
+        "513779.0",
+        "DC-T4536HRX-A 3-13.5 #2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4536HRX-A"
+    ],
+    "IR-003B": [
+        "513759.0",
+        "IR-300B 2U#1 ODM-KR 0T",
+        "ODM-KR",
+        "NVR",
+        "IR",
+        "IR-300B"
+    ],
+    "NC-T3642HRX": [
+        "513260.0",
+        "DC-T4236HRX 2.8-12#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4236HRX"
+    ],
+    "NC-Y166CWRX": [
+        "513237.0",
+        "DC-Y6C16WRX 1.6#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "FISHEYE",
+        "DC-Y6C16WRX"
+    ],
+    "NC-T1645WRX 4.0mm": [
+        "514047.0",
+        "DC-T4516WRX 4.0#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4516WRX"
+    ],
+    "NC-S8338HRX-A": [
+        "513574.0",
+        "NC-S680-3ZXHA 6.5-202#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "PTZ",
+        "NC-S680-3ZXHA"
+    ],
+    "NC-S8662HRXL": [
+        "513512.0",
+        "DC-S6286HRXL 6-216#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6286HRXL"
+    ],
+    "NC-S8164HRA": [
+        "514529.0",
+        "DC-S6481HRA 6.91-248.76#2 ODM-KR",
+        "ODM-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6481HRA"
+    ],
+    "NR-1635P": [
+        "513925.0",
+        "DR-3516P 2U#8 ODM-KR 0T",
+        "ODM-KR",
+        "NVR",
+        "DR3",
+        "DR-3516P"
+    ],
+    "NR-0425P": [
+        "513923.0",
+        "DR-2504P 1U#1 ODM-KR 0T",
+        "ODM-KR",
+        "NVR",
+        "DR2",
+        "DR-2504P"
+    ],
+    "IR-103D": [
+        "513991.0",
+        "IR-310D 2U#1 ODM-KR 0T",
+        "ODM-KR",
+        "NVR",
+        "IR",
+        "IR-310D"
+    ],
+    "NR-0815P": [
+        "514080.0",
+        "DR-1508P 1U#1 ODM-KR 0T /WHT",
+        "ODM-KR",
+        "NVR",
+        "DR1",
+        "DR-1508P"
+    ],
+    "IR-103": [
+        "513758.0",
+        "IR-310 2U#1 ODM-KR 0T",
+        "ODM-KR",
+        "NVR",
+        "IR",
+        "IR-310"
+    ],
+    "VDR-10300": [
+        "514236.0",
+        "DC-D4517RXP 4.3#2 S1",
+        "S1",
+        "IP-CAM",
+        "DOME",
+        "DC-D4517RXP"
+    ],
+    "VBR-10306": [
+        "513934.0",
+        "DC-T4217WRX 4.0#2 S1 /A-OUT",
+        "S1",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4217WRX"
+    ],
+    "VBR-10306R": [
+        "513160.0",
+        "DC-T4217WRX 4.0#2 S1-R NEW",
+        "S1",
+        "S1",
+        "IP-CAM NEW",
+        "IP-CAM NEW"
+    ],
+    "VBR-10307": [
+        "513163.0",
+        "DC-T4217WRX 6.0#2 S1 /OUT",
+        "S1",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4217WRX"
+    ],
+    "VBR-10400": [
+        "514238.0",
+        "DC-T4517WRXP 4.3#2 S1",
+        "S1",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4517WRXP"
+    ],
+    "VDR-10214R": [
+        "513155.0",
+        "DC-D4217RX 4.0#2 S1-R NEW",
+        "S1",
+        "S1",
+        "IP-CAM NEW",
+        "IP-CAM NEW"
+    ],
+    "VDR-10214 2.8mm": [
+        "513331.0",
+        "DC-D4217RX 2.8#2 S1",
+        "S1",
+        "IP-CAM",
+        "DOME",
+        "DC-D4217RX"
+    ],
+    "VDR-10214": [
+        "513932.0",
+        "DC-D4217RX 4.0#2 S1 /A-OUT",
+        "S1",
+        "IP-CAM",
+        "DOME",
+        "DC-D4217RX"
+    ],
+    "VRN-10201R": [
+        "514383.0",
+        "DR-2508P 1U#9 S1-R 2TA NEW",
+        "S1",
+        "S1",
+        "NVR NEW",
+        "NVR NEW"
+    ],
+    "VRN-10201": [
+        "513250.0",
+        "DR-2508P 1U#9 S1 2TA",
+        "S1",
+        "NVR",
+        "DR2",
+        "DR-2508P"
+    ],
+    "VRN-10001 (12TB)": [
+        "506718.0",
+        "DR-6116P 2U#3 S1 1200GD /ST /MTS",
+        "S1",
+        "NVR",
+        "DR6",
+        "# DR-6116P"
+    ],
+    "VRN-10200": [
+        "513247.0",
+        "DR-2504P 1U#9 S1 2TA",
+        "S1",
+        "NVR",
+        "DR2",
+        "DR-2504P"
+    ],
+    "VRN-10200R": [
+        "514382.0",
+        "DR-2504P 1U#9 S1-R 2TA NEW",
+        "S1",
+        "S1",
+        "NVR NEW",
+        "NVR NEW"
+    ],
+    "VBR-10078": [
+        "513501.0",
+        "DC-E4215WR 6.0#2 S1-R NEW /REV",
+        "S1",
+        "S1",
+        "IP-CAM NEW",
+        "IP-CAM NEW"
+    ],
+    "VDR-10070": [
+        "512622.0",
+        "DC-D4215R-N 4.0#2 S1-R NEW",
+        "S1",
+        "S1",
+        "IP-CAM NEW",
+        "IP-CAM NEW"
+    ],
+    "VBR-10307R": [
+        "513165.0",
+        "DC-T4217WRX 6.0#2 S1-R NEW",
+        "S1",
+        "S1",
+        "IP-CAM NEW",
+        "IP-CAM NEW"
+    ],
+    "VBR-10290R": [
+        "513020.0",
+        "DC-E4215WR 4.0#2 S1-R NEW /REV",
+        "S1",
+        "S1",
+        "IP-CAM NEW",
+        "IP-CAM NEW"
+    ],
+    "VRN-10202R": [
+        "514384.0",
+        "DR-3516P 2U#9 S1-R 4TA NEW",
+        "S1",
+        "S1",
+        "NVR NEW",
+        "NVR NEW"
+    ],
+    "VRN-10202": [
+        "513829.0",
+        "DR-3516P 2U#9 S1 4TA",
+        "S1",
+        "NVR",
+        "DR3",
+        "DR-3516P"
+    ],
+    "TSD-10120R": [
+        "514368.0",
+        "TR-1504 1U#1 S1-R 2TA NEW /BLK /FOC",
+        "S1",
+        "S1",
+        "DVR NEW",
+        "DVR NEW"
+    ],
+    "TSD-10120": [
+        "514501.0",
+        "TR-1504 1U#1 S1 2TA /BLK /OUT",
+        "S1",
+        "DVR",
+        "TR1",
+        "TR-1504"
+    ],
+    "HUB-10002A": [
+        "512555.0",
+        "DH-2212PF-A S1-R NEW",
+        "S1",
+        "S1",
+        "Others NEW",
+        "OTHERS NEW"
+    ],
+    "HUB-10002": [
+        "509778.0",
+        "DH-2212PF S1-R NEW",
+        "S1",
+        "S1",
+        "Others NEW",
+        "OTHERS NEW"
+    ],
+    "TSD-10122R": [
+        "514539.0",
+        "TR-4516 2U#9 S1-R 4TA NEW /FOC",
+        "S1",
+        "S1",
+        "DVR NEW",
+        "DVR NEW"
+    ],
+    "TSD-10122": [
+        "514505.0",
+        "TR-4516 2U#9 S1 4TA /OUT",
+        "S1",
+        "DVR",
+        "TR4",
+        "TR-4516"
+    ],
+    "TSD-10121R": [
+        "514369.0",
+        "TR-2508 1U#8 S1-R 2TA NEW /FOC",
+        "S1",
+        "S1",
+        "DVR NEW",
+        "DVR NEW"
+    ],
+    "TSD-10121": [
+        "513866.0",
+        "TR-2508 1U#8 S1 2TA",
+        "S1",
+        "DVR",
+        "TR2",
+        "TR-2508"
+    ],
+    "VRN-10002": [
+        "511921.0",
+        "DR-6116P 2U#3 S1-R 4TA NEW",
+        "S1",
+        "S1",
+        "NVR NEW",
+        "NVR NEW"
+    ],
+    "VRN-10062": [
+        "512615.0",
+        "DR-4316PS 2U#8 S1-R 4TA NEW",
+        "S1",
+        "S1",
+        "NVR NEW",
+        "NVR NEW"
+    ],
+    "VRN-10004": [
+        "507180.0",
+        "DR-2104P 1U#3 S1-R 2TA NEW",
+        "S1",
+        "S1",
+        "NVR NEW",
+        "NVR NEW"
+    ],
+    "VRN-10060": [
+        "512614.0",
+        "DR-2308P 1U#8 S1-R 2TA NEW",
+        "S1",
+        "S1",
+        "NVR NEW",
+        "NVR NEW"
+    ],
+    "VRN-10058": [
+        "512613.0",
+        "DR-2304P 1U#8 S1-R 2TA NEW",
+        "S1",
+        "S1",
+        "NVR NEW",
+        "NVR NEW"
+    ],
+    "VRN-10006": [
+        "507181.0",
+        "DR-2108P 1U#3 S1-R 2TA NEW",
+        "S1",
+        "S1",
+        "NVR NEW",
+        "NVR NEW"
+    ],
+    "NC-D4213RX 2.8mm": [
+        "511401.0",
+        "DC-D4213RX 2.8#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4213RX"
+    ],
+    "NC-D4213RX 4.0mm": [
+        "511402.0",
+        "DC-D4213RX 4.0#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4213RX"
+    ],
+    "NC-D4811WRX 3.3mm": [
+        "513205.0",
+        "DC-D4811WRX 3.3#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4811WRX"
+    ],
+    "NC-S3283FX": [
+        "510332.0",
+        "NC-S620-3ZX 4.3-129.0#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "PTZ",
+        "NC-S620-3ZX"
+    ],
+    "NC-V4212XJ 2.4mm": [
+        "514160.0",
+        "DC-V4212XJ 2.4#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "MODULAR",
+        "DC-V4212XJ"
+    ],
+    "NC-V4212XJ 4.3mm": [
+        "514162.0",
+        "DC-V4212XJ 4.3#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "MODULAR",
+        "DC-V4212XJ"
+    ],
+    "NC-D4516WRX-A 2.8mm": [
+        "513533.0",
+        "DC-D4516WRX-A 2.8#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4516WRX-A"
+    ],
+    "NC-T4811WRX-A 3.3mm": [
+        "513298.0",
+        "DC-T4811WRX-A 3.3#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4811WRX-A"
+    ],
+    "NC-T4831HRX-A": [
+        "513362.0",
+        "DC-T4831HRX-A 2.7-13.5#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4831HRX-A"
+    ],
+    "NC-T4217WRX 4.0mm": [
+        "513243.0",
+        "DC-T4217WRX 4.0#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4217WRX"
+    ],
+    "NC-T4217WRX 2.8mm": [
+        "513507.0",
+        "DC-T4217WRX 2.8#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4217WRX"
+    ],
+    "NC-T4216WRX-A 4.0mm": [
+        "513420.0",
+        "DC-E4216WRX-A 4.0#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-E4216WRX-A"
+    ],
+    "NC-D3533RX": [
+        "510118.0",
+        "NC-D650-3MXI 3.6-10#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "NC-D650-3MXI"
+    ],
+    "NC-D4217RX 4.0mm": [
+        "513239.0",
+        "DC-D4217RX 4.0#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4217RX"
+    ],
+    "NC-D4217RX 2.8mm": [
+        "513505.0",
+        "DC-D4217RX 2.8#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4217RX"
+    ],
+    "NC-D4831HRX-A": [
+        "513358.0",
+        "DC-D4831HRX-A 2.7-13.5#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4831HRX-A"
+    ],
+    "NC-D4516WRX 4.0mm": [
+        "513525.0",
+        "DC-D4516WRX 4.0#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4516WRX"
+    ],
+    "NC-D4516WRX 2.8mm": [
+        "513521.0",
+        "DC-D4516WRX 2.8#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4516WRX"
+    ],
+    "NC-D4236RX": [
+        "513048.0",
+        "DC-D4236RX 2.8-12#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4236RX"
+    ],
+    "DC-D3345RX": [
+        "512089.0",
+        "DC-D4533RX 3-13.5#2 DOME-SI /PP",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4533RX"
+    ],
+    "NC-D4536HRX-A": [
+        "513671.0",
+        "DC-D4536HRX-A 3-13.5#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4536HRX-A"
+    ],
+    "NC-T3533HRX": [
+        "509634.0",
+        "NC-A650-3MXH 3.6-10#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "NC-A650-3MXH"
+    ],
+    "NC-T4216WRX 4.0mm": [
+        "513126.0",
+        "DC-E4216WRX 4.0#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-E4216WRX"
+    ],
+    "NC-T4216WRX 2.8mm": [
+        "513049.0",
+        "DC-E4216WRX 2.8#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-E4216WRX"
+    ],
+    "NC-T4535HRX-A": [
+        "513354.0",
+        "DC-T4535HRX-A 4-14#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4535HRX-A"
+    ],
+    "NC-T3233HRXL": [
+        "509932.0",
+        "NC-A620-3MXHS 4.4-10#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "NC-A620-3MXHS"
+    ],
+    "NC-T4811WRX 3.3mm": [
+        "513209.0",
+        "DC-T4811WRX 3.3#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4811WRX"
+    ],
+    "NC-T4516WRX-A 4.0mm": [
+        "513539.0",
+        "DC-T4516WRX-A 4.0#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4516WRX-A"
+    ],
+    "NC-T4516WRX-A 2.8mm": [
+        "513535.0",
+        "DC-T4516WRX-A 2.8#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4516WRX-A"
+    ],
+    "NC-S6261X": [
+        "513007.0",
+        "DC-S6261X 5.3-64#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6261X"
+    ],
+    "NC-D3233HRXL": [
+        "510117.0",
+        "NC-D620-3MXHS 4.4-10#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "NC-D620-3MXHS"
+    ],
+    "NC-D4216RX 4.0mm": [
+        "513125.0",
+        "DC-D4216RX 4.0#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4216RX"
+    ],
+    "NC-D4216RX 2.8mm": [
+        "513047.0",
+        "DC-D4216RX 2.8#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4216RX"
+    ],
+    "NC-D4811WRX-A 3.3mm": [
+        "513294.0",
+        "DC-D4811WRX-A 3.3#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4811WRX-A"
+    ],
+    "NC-D4216RX-A 2.8mm": [
+        "513401.0",
+        "DC-D4216RX-A 2.8#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4216RX-A"
+    ],
+    "NC-D4236RX-A": [
+        "513410.0",
+        "DC-D4236RX-A 2.8-12#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4236RX-A"
+    ],
+    "NC-D4211CRX": [
+        "513659.0",
+        "DC-D4211CRX 2.8#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "DOME",
+        "DC-D4211CRX"
+    ],
+    "NC-Y8C13WRX": [
+        "511772.0",
+        "DC-Y8C13WRX 1.2#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "FISHEYE",
+        "DC-Y8C13WRX"
+    ],
+    "NC-Y6516WRX": [
+        "513193.0",
+        "DC-Y6516WRX 1.5#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "FISHEYE",
+        "DC-Y6516WRX"
+    ],
+    "NC-Y6516WRX-A": [
+        "513302.0",
+        "DC-Y6516WRX-A 1.5#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "FISHEYE",
+        "DC-Y6516WRX-A"
+    ],
+    "NC-Y6C16WRX-A": [
+        "513304.0",
+        "DC-Y6C16WRX-A 1.6#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "FISHEYE",
+        "DC-Y6C16WRX-A"
+    ],
+    "NC-V4212XJ-A 4.3mm": [
+        "513929.0",
+        "DC-V4212XJ-A 4.3#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "MODULAR",
+        "DC-V4212XJ-A"
+    ],
+    "NC-V4212XJ-A 2.4mm": [
+        "513928.0",
+        "DC-V4212XJ-A 2.4#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "MODULAR",
+        "DC-V4212XJ-A"
+    ],
+    "HR-2504": [
+        "513309.0",
+        "TR-2504 1U#5 SI-KR 2TA",
+        "SI-KR",
+        "DVR",
+        "TR2",
+        "TR-2504"
+    ],
+    "NC-S6881HRX": [
+        "514155.0",
+        "DC-S6881HRX 6.5-202#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6881HRX"
+    ],
+    "NR-6532P": [
+        "513036.0",
+        "DR-6532P 2U#1 SI-KR 4TA",
+        "SI-KR",
+        "NVR",
+        "DR6",
+        "DR-6532P"
+    ],
+    "NR-2508P": [
+        "513763.0",
+        "DR-2508P 1U#1 SI-KR 2TA",
+        "SI-KR",
+        "NVR",
+        "DR2",
+        "DR-2508P"
+    ],
+    "NC-B6206XL": [
+        "513697.0",
+        "DC-B6206XL #2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BOX",
+        "DC-B6206XL"
+    ],
+    "NC-S6881HRX-A": [
+        "513943.0",
+        "DC-S6881HRX-A 6.5-202#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6881HRX-A"
+    ],
+    "NC-T4536HRX": [
+        "513672.0",
+        "DC-T4536HRX 3-13.5 #2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4536HRX"
+    ],
+    "NC-T4536HRX-A": [
+        "513673.0",
+        "DC-T4536HRX-A 3-13.5 #2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4536HRX-A"
+    ],
+    "NC-S6681HRX-A": [
+        "513944.0",
+        "DC-S6681HRX-A 6.5-202#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6681HRX-A"
+    ],
+    "NC-T3234HRX": [
+        "509892.0",
+        "NC-A620-3MXH1 3.3-10#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "NC-A620-3MXH1"
+    ],
+    "NC-T4236HRX": [
+        "513050.0",
+        "DC-T4236HRX 2.8-12#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4236HRX"
+    ],
+    "NC-T4236HRX-A": [
+        "513425.0",
+        "DC-T4236HRX-A 2.8-12#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4236HRX-A"
+    ],
+    "NC-S6681HRX": [
+        "514152.0",
+        "DC-S6681HRX 6.5-202#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6681HRX"
+    ],
+    "NC-Y6C16WRX": [
+        "513194.0",
+        "DC-Y6C16WRX 1.6#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "FISHEYE",
+        "DC-Y6C16WRX"
+    ],
+    "NC-T4516WRX 2.8mm": [
+        "513523.0",
+        "DC-T4516WRX 2.8#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4516WRX"
+    ],
+    "NC-T4516WRX 4.0mm": [
+        "513527.0",
+        "DC-T4516WRX 4.0#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4516WRX"
+    ],
+    "NC-S3283WHX": [
+        "510333.0",
+        "NC-S620-3ZXH 4.3-129.0#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "PTZ",
+        "NC-S620-3ZXH"
+    ],
+    "NC-S3583HRX": [
+        "510464.0",
+        "NC-S650-3ZXH 6.5-202#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "PTZ",
+        "NC-S650-3ZXH"
+    ],
+    "NC-S6286HRXL": [
+        "513510.0",
+        "DC-S6286HRXL 6-216#2 SI-KR",
+        "SI-KR",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6286HRXL"
+    ],
+    "NR-1504P": [
+        "514072.0",
+        "DR-1504P 1U#1 SI-KR 2TA /WHT",
+        "SI-KR",
+        "NVR",
+        "DR1",
+        "DR-1504P"
+    ],
+    "NR-3516P": [
+        "513803.0",
+        "DR-3516P 2U#8 SI-KR 4TA",
+        "SI-KR",
+        "NVR",
+        "DR3",
+        "DR-3516P"
+    ],
+    "HR-4516": [
+        "513970.0",
+        "TR-4516 2U#1 SI-KR 4TA",
+        "SI-KR",
+        "DVR",
+        "TR4",
+        "TR-4516"
+    ],
+    "HR-1508": [
+        "514122.0",
+        "TR-1508 1U#1 SI-KR 2TA",
+        "SI-KR",
+        "DVR",
+        "TR1",
+        "TR-1508"
+    ],
+    "HR-1504": [
+        "513308.0",
+        "TR-1504 1U#1 SI-KR 2TA /WHT",
+        "SI-KR",
+        "DVR",
+        "TR1",
+        "TR-1504"
+    ],
+    "NR-2504P": [
+        "513761.0",
+        "DR-2504P 1U#1 SI-KR 2TA",
+        "SI-KR",
+        "NVR",
+        "DR2",
+        "DR-2504P"
+    ],
+    "NR-6516P": [
+        "513035.0",
+        "DR-6516P 2U#1 SI-KR 4TA",
+        "SI-KR",
+        "NVR",
+        "DR6",
+        "DR-6516P"
+    ],
+    "NR-8564": [
+        "514182.0",
+        "DR-8564 2U#1 SI-KR 8TB",
+        "SI-KR",
+        "NVR",
+        "DR8",
+        "DR-8564"
+    ],
+    "PR-310D": [
+        "513990.0",
+        "IR-310D 2U#1 SI-KR 0T",
+        "SI-KR",
+        "NVR",
+        "IR",
+        "IR-310D"
+    ],
+    "HR-2516": [
+        "513737.0",
+        "TR-2516 1U#1 SI-KR 4TA",
+        "SI-KR",
+        "DVR",
+        "TR2",
+        "TR-2516"
+    ],
+    "NR-1508P": [
+        "514077.0",
+        "DR-1508P 1U#1 SI-KR 2TA /WHT",
+        "SI-KR",
+        "NVR",
+        "DR1",
+        "DR-1508P"
+    ],
+    "IDR9932": [
+        "509585.0",
+        "ID3932H 4U#P SI-KR 3TA DRW",
+        "SI-KR",
+        "NVR",
+        "ID",
+        "ID3932H"
+    ],
+    "PR-310": [
+        "513989.0",
+        "IR-310 2U#1 SI-KR 0T",
+        "SI-KR",
+        "NVR",
+        "IR",
+        "IR-310"
+    ],
+    "HR-2508": [
+        "513310.0",
+        "TR-2508 1U#5 SI-KR 2TA",
+        "SI-KR",
+        "DVR",
+        "TR2",
+        "TR-2508"
+    ],
+    "DC-D4831HRXT": [
+        "514362.0",
+        "DC-D4831HRX 2.7-13.5#2 SI-TTA",
+        "SI-TTA",
+        "IP-CAM",
+        "DOME",
+        "DC-D4831HRX"
+    ],
+    "DC-T4831HRXT": [
+        "514363.0",
+        "DC-T4831HRX 2.7-13.5#2 SI-TTA",
+        "SI-TTA",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4831HRX"
+    ],
+    "DC-D4236RXT": [
+        "513596.0",
+        "DC-D4236RX 2.8-12#2 SI-TTA",
+        "SI-TTA",
+        "IP-CAM",
+        "DOME",
+        "DC-D4236RX"
+    ],
+    "DC-T4216WRXT": [
+        "513609.0",
+        "DC-E4216WRX 4.0#2 SI-TTA",
+        "SI-TTA",
+        "IP-CAM",
+        "BULLET",
+        "DC-E4216WRX"
+    ],
+    "DC-D4536RX-AT": [
+        "514177.0",
+        "DC-D4536RX-A 3-13.5#2 SI-TTA",
+        "SI-TTA",
+        "IP-CAM",
+        "DOME",
+        "DC-D4536RX-A"
+    ],
+    "DC-S3883HRXT": [
+        "512013.0",
+        "NC-S680-3ZXH 6.5-202#2 SI-TTA",
+        "SI-TTA",
+        "IP-CAM",
+        "PTZ",
+        "NC-S680-3ZXH"
+    ],
+    "DC-S6881HRXT": [
+        "514170.0",
+        "DC-S6881HRX 6.5-202#2 SI-TTA",
+        "SI-TTA",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6881HRX"
+    ],
+    "DR-6532PT": [
+        "514325.0",
+        "DR-6532P 2U#1 SI-TTA 4TA",
+        "SI-TTA",
+        "NVR",
+        "DR6",
+        "DR-6532P"
+    ],
+    "DR-2504PT": [
+        "514137.0",
+        "DR-2504P 1U#1 SI-TTA 2TA",
+        "SI-TTA",
+        "NVR",
+        "DR2",
+        "DR-2504P"
+    ],
+    "DC-T4536HRX-AT": [
+        "514178.0",
+        "DC-T4536HRX-A 3-13.5 #2 SI-TTA",
+        "SI-TTA",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4536HRX-A"
+    ],
+    "DC-T3642HRXT": [
+        "513202.0",
+        "DC-T4236HRX 2.8-12#2 SI-TTA",
+        "SI-TTA",
+        "IP-CAM",
+        "BULLET",
+        "DC-T4236HRX"
+    ],
+    "DC-Y6C16WRXT": [
+        "514434.0",
+        "DC-Y6C16WRX 1.6#2 SI-TTA",
+        "SI-TTA",
+        "IP-CAM",
+        "FISHEYE",
+        "DC-Y6C16WRX"
+    ],
+    "DC-S6286HRXLT": [
+        "513511.0",
+        "DC-S6286HRXL 6-216#2 SI-TTA",
+        "SI-TTA",
+        "IP-CAM",
+        "PTZ",
+        "DC-S6286HRXL"
+    ],
+    "DR-6516PT": [
+        "514324.0",
+        "DR-6516P 2U#1 SI-TTA 4TA",
+        "SI-TTA",
+        "NVR",
+        "DR6",
+        "DR-6516P"
+    ],
+    "IR-300T": [
+        "512996.0",
+        "IR-300A 2U#1 SI-TTA 0T",
+        "SI-TTA",
+        "NVR",
+        "IR",
+        "IR-300A"
+    ],
+    "IR-310D-AT": [
+        "514365.0",
+        "IR-310D-A 2U#1 SI-TTA 0T",
+        "SI-TTA",
+        "NVR",
+        "IR",
+        "IR-310D-A"
+    ]
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+    {% include '01.layout/header.html' %}
+    {% include '01.layout/nav.html' %}
+<body>
+  <div class="container-fluid mt-5">  
+  {% if filter_data %}
+  <form class="mt-3" action="/quotation_list" method="post">
+    {% csrf_token %}
+    <input name="sortData" hidden value="{{sort_data}}">          
+    <table class="table table-bordered mt-1">
+      <thead>
+        <tr>          
+          <th>장비구분</th>
+          <th>장비모델</th>                
+          <th>수량</th>
+          <th>장비단가</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for val in filter_data %}
+        <tr>
+          <!-- <td><input type="checkbox" name="product_check" value="{{val.6}}"></td> -->
+          <td>{{val.3}} ({{val.4}})</td>          
+          <td><input hidden type="text" name="product_name" value="{{val.6}}">{{val.6}}</td>            
+          <td><input type="num" name="product_num" value="1"></td>
+          <td><input type="price" name="product_price" value="120000"></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <button type="submit" class="btn btn-primary">견적내기</button>
+    <!-- <button type="submit" class="btn btn-success">엑셀추출</button> -->
+  </form>
+  {% endif %}
+  <div class="row mt-5">
+    <div class="col-6">        
+      <!-- 아래는 초기화 버튼 -->
+      <form action="/" method="post">
+        {% csrf_token %}
+        <input name="reset_btn" hidden value="reset_btn">
+        <button type="submit" class="btn btn-danger">초기화</button>
+      </form>
+    </div>
+    <div class="col-6">
+      <a href="/" class="btn btn-primary">목록</a>
+    </div>
+  </div>  
+
+</body>
+
+</html>

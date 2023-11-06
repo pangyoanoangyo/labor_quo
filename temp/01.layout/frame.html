@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ko">
+    {% include '01.layout/header.html' %}
+    <body>
+      {% include '01.layout/nav.html' %}
+      <main class="container" style="height: auto;">     
+        {% block contents %}
+        {% endblock %} 
+      </main>
+      {% include '01.layout/footer.html' %}
+    </body> 
+
+</html>
+
+
