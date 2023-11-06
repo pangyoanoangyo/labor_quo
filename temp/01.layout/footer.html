@@ -1,0 +1,26 @@
+<footer class="container-fluid bg-dark text-white">
+    <div class="row mt-5">
+        <p class="footer_font text-center">
+            © 2023 KIMSANGFEEL ALL RIGHT RESERVED | Making A Website in Django
+        </p>
+    </div>
+    <div class="row mb-5">
+        {% if user.is_authenticated %}    
+        <a  href="{% url 'blog:logout' %}">| <i class="fa fa-user"></i> 로그아웃 |</a>
+        {% else %} 
+        <a  href="{% url 'blog:login' %}">| <i class="fa fa-user"></i> 로그인 |</a>
+        {% endif %}
+    </div>    
+</footer>
+<style>
+    footer{
+        font-family: 'Noto Sans KR', sans-serif;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+    .footer_font{
+        font-size: 10px;
+    }
+</style>

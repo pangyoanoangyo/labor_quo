@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ko">
+    {% include '01.layout/header.html' %}
+    {% include '01.layout/nav.html' %}
+<body class="container-fluid">
+  <!-- 아래는 장비 카테고리 -->
+  <form class="mt-5" action="/" method="post">
+    {% csrf_token %}
+    <select name="sort_data">
+      {% for key,val in category.items %}
+      <option value="{{key}}">{{val}}</option>
+      {% endfor %}
+    </select>
+    <input type="submit" value="검색">
+  </form>
+<!--  -->
+
+  {% if filter_data %}
+  <h3 class="mt-5">{{sort_data}}</h3>
+      <!--아래는 상세장비 필터링 / 카메라  -->
+      {% if cam_category%}
+      <form class="mt-3" action="/" method="post">
+      <input name="sortData" hidden value="{{sort_product}}">      
+      {% csrf_token %}
+      {% for key,val in cam_category.items %}
+      <input type="checkbox" name="filter_check" value="{{key}}">{{val}}
+      {% endfor %} 
+      <input class="btn btn-sm btn-info"  type="submit" value="구분">
+      </form>
+      {% endif %}
+      <!--아래는 상세장비 필터링 / 저장장치  -->
+      {% if nvr_category%}
+      <form class="mt-3" action="/" method="post">
+      <input name="sortData" hidden value="{{sort_product}}">      
+      {% csrf_token %}
+      {% for key,val in nvr_category.items %}
+      <input type="checkbox" name="filter_check" value="{{key}}">{{val}}
+      {% endfor %} 
+      <input class="btn btn-sm btn-info"  type="submit" value="구분">
+      </form>
+      {% endif %}
+      <!--  -->
+
+  <form class="mt-3" action="/" method="post" id="equipmentForm">
+    {% csrf_token %}
+    <input name="sortData" hidden value="{{sort_data}}">      
+    <button type="submit" class="btn btn-primary">장비담기</button>
+    <table class="table table-bordered mt-1">
+      <thead>
+        <tr>
+          <th>체크</th>
+          <th>장비구분</th>
+          <th>스펙상세</th>                
+          <th>모델명</th>
+          <th>비고</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for val in filter_data %}
+        <tr>
+          <td><input type="checkbox" name="product_check" value="{{val.6}}"></td>
+          <td>{{val.3}} ({{val.4}})</td>
+          <td>{{val.4}} / {{val.5}}/{{val.7}}</td>
+          <td>{{val.6}}</td>            
+          <td>{{val.8}}</td>        
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </form>
+  {% endif %}
+
+</body>
+<script>
+  document.getElementById('equipmentForm').onsubmit = function() {
+      // 체크박스의 NodeList를 가져옴
+      var checkboxes = document.querySelectorAll('input[name="product_check"]');
+      // 체크된 체크박스가 하나라도 있는지 확인
+      var checkedOne = Array.prototype.slice.call(checkboxes).some(x => x.checked);
+  
+      if (!checkedOne) {
+          // 체크된 항목이 없다면 알림 표시
+          alert('적어도 하나 이상의 장비를 선택해주세요.');
+          return false; // 폼 제출을 방지
+      }
+  
+      return true; // 체크된 항목이 있다면 폼 제출
+  };
+  </script>
+  
+</html>

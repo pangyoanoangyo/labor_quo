@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ko">
+    {% include '01.layout/header.html' %}
+    {% include '01.layout/nav.html' %}
+    {% load humanize %}
+<body>
+  <div class="container-fluid mt-5">  
+  {% if filter_data %}
+  <form class="mt-3" action="/quotation_labor" method="post">
+    {% csrf_token %}
+    <input name="sortData" hidden value="{{sort_data}}">          
+    <table class="table table-bordered mt-1">
+      <thead>
+        <tr>          
+          <th>장비구분</th>
+          <th>상세내역</th>
+          <th>단위</th>
+          <th>수량</th>
+          <th>장비단가</th>
+          <th>장비금액</th>
+          <th>장비모델</th>                          
+          <th>비고</th>                                    
+        </tr>
+      </thead>
+      <tbody>
+        {% for val in filter_data %}
+        <input hidden type="text" name="quo_product_name" value="{{val.4}}">
+        <tr>          
+          <td>{{val.3}} ({{val.4}})<input hidden type="text" name="quo_send" value="{{val.3}} ({{val.4}})"></td>          
+          <td>{{val.4}} / {{val.5}}/{{val.7}}<input hidden type="text" name="quo_send" value="{{val.4}} / {{val.5}}/{{val.7}}"></td>          
+          <td>EA</td>
+          <!-- 수량 -->
+          <td><input type="num" name="quo_send" value="{{val.9}}"></td>
+          <!-- 단가 -->
+          <td><input type="price" name="quo_send" value="{{val.10 |intcomma }}"></td>
+          <td><input type="price" name="quo_send" value="{{val.11 |intcomma }}"></td>
+          <td><input hidden type="text" name="quo_send" value="{{val.6}}">{{val.6}}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <button type="submit" class="btn btn-primary">인건비 산출하기</button>
+    <button type="submit" class="btn btn-success">엑셀추출</button>
+  </form>
+  {% endif %}
+  <div class="row mt-5">
+    <div class="col-6">        
+      <!-- 아래는 초기화 버튼 -->
+      <form action="/" method="post">
+        {% csrf_token %}
+        <input name="reset_btn" hidden value="reset_btn">
+        <button type="submit" class="btn btn-danger">초기화</button>
+      </form>
+    </div>
+    <div class="col-6">
+      <a href="/" class="btn btn-primary">목록</a>
+    </div>
+  </div>  
+
+</body>
+
+</html>

@@ -1,0 +1,36 @@
+{% extends "01.layout/frame.html" %}
+
+{% block contents %}
+{% load static %}
+{% csrf_token %}
+{% if user.is_authenticated %}    
+<a href="blogwrite" class="btn btn-primary">글쓰기</a>
+{% else %}    
+
+{% endif %}
+<div>
+{% for  post in blog %}
+<p id="dateSubject">{{post.createdate}}</p>
+<h2>{{post.title}}</h2>
+<h6 class="textEditor"><span id="textEditor">{{post.content}}</span></h6>
+<p><a href="{% url 'blog:blogdetail' post.id %}">자세히 보기</p>
+<hr>
+{% endfor %}
+</div>
+
+<style>
+    p {
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 8px;
+    }
+    h2 {
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 800;
+    }
+    #textEditor>p{
+        font-family: 'Nanum Myeongjo', serif;
+        font-size: 14px;
+        
+    }
+</style>
+{% endblock %}
