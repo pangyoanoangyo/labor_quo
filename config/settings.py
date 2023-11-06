@@ -26,9 +26,7 @@ SECRET_KEY = 'django-insecure-jg1r)0c0$94pz)ue*v!4g%17-u_2zmj3437eyzp-p@c95rd&7y
 DEBUG = True
 
 ALLOWED_HOSTS = ['34.64.184.142', '34.64.220.67', '34.64.112.246',
-                 'https://port-0-labor-quo-1drvf2llomd59u1.sel5.cloudtype.app', 'localhost']
-
-
+                 'https://port-0-labor-5yc2g32mlomeawb1.sel5.cloudtype.app']
 
 
 # Application definition
