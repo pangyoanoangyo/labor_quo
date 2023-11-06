@@ -21,12 +21,13 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-jg1r)0c0$94pz)ue*v!4g%17-u_2zmj3437eyzp-p@c95rd&7y'
+# SECRET_KEY = 'django-insecure-jg1r)0c0$94pz)ue*v!4g%17-u_2zmj3437eyzp-p@c95rd&7y'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
 ALLOWED_HOSTS = ['34.64.184.142', '34.64.220.67', '34.64.112.246',
-                 'https://port-0-labor-5yc2g32mlomeawb1.sel5.cloudtype.app']
+                 'https://port-0-labor-5yc2g32mlomeawb1.sel5.cloudtype.app/']
 
 
 # Application definition
